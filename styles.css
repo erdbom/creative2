@@ -1,0 +1,39 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #80ffdb;
+}
+
+.header {
+    height: 10rem;
+    width: 100%;
+    background-color: rgb(141, 62, 141);
+    color: rgb(60, 170, 173);
+}
+
+.footer1 {
+    position: relative;
+    bottom: 0;
+    width: 100%!important;
+    height: 8rem;    
+    background-color: rgb(141, 62, 141);
+}
+.footer2 {
+    position: absolute;
+    bottom: 0;
+    width: 100%!important;
+    height: 8rem;    
+    background-color: rgb(141, 62, 141);
+}
+
+.form {
+    background-color: rgb(60, 170, 173);
+}
+
+.imgs {
+    width: 50%;
+    height: 50%;
+}
+
+.links {
+    
+}
